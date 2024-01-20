@@ -14,8 +14,8 @@ Concepts to keep in mind:
 ● Print
 
 Deliverables:
-A pretty fun beginning project that gets you thinking about how to manipulate user inputted data.
-Compared to the prior projects, this project focuses far more on strings and concatenating.
+A pretty fun beginning project that gets you thinking about how to manipulate user inputted data. 
+Compared to the prior projects, this project focuses far more on strings and concatenating. 
 Have some fun coming up with some wacky stories for this!
 ------------------------------------------------------------------------------------------------------
 **Text-Based Adventure Game**
